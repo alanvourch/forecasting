@@ -1,6 +1,6 @@
 # Forecasting Time Series: A Practical Walkthrough
 
-This notebook presents a structured approach to time series forecasting using daily retail sales data from a grocery chain in Ecuador (Kaggle's Store Sales competition). The goal is to build accurate and interpretable forecasting models by progressively incorporating trend, seasonality, lagged features, and hybrid modeling techniques.
+This [notebook](forecast.ipynb) presents a structured approach to time series forecasting using daily retail sales data from a grocery chain in Ecuador (Kaggle's Store Sales competition). The goal is to build accurate and interpretable forecasting models by progressively incorporating trend, seasonality, lagged features, and hybrid modeling techniques.
 
 ## Overview
 
@@ -38,3 +38,5 @@ The notebook progresses in stages, starting from basic trend modeling and moving
 ---
 
 This project is intended as both a learning resource and a template for building production-ready forecasting pipelines.
+
+[Open the notebook](forecast.ipynb)
